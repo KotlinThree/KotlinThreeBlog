@@ -7,9 +7,9 @@ menu:
 # SubNav
 subnav:
   github: "https://github.com/KotlinThree/KotlinThree.github.io"
-  weibo: "http://weibo.com/u/1814929765"
+  weibo: 
   #rss: "#"
-  zhihu: "http://www.zhihu.com/people/jameson-hua"
+  zhihu: 
   #douban: "#"
   #mail: "#"
   #facebook: "#"
@@ -35,7 +35,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: http://tp2.sinaimg.cn/1814929765/180/5663426681/1
+avatar: https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
