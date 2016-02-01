@@ -9,7 +9,11 @@ tags: kotlin
 fun sum(a: Int, b: Int) = a + b
 	
 fun max(a: Int, b: Int) = if (a > b) a else b
-	
+```
+
+<!--more-->
+
+```
 // range in
 for (x in 1..100) 
 	print(x)
