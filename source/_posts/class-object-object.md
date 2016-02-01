@@ -25,6 +25,8 @@ val point = object {
 ```
 这个对象可以继承于某个基类，或者实现其他接口:
 
+<!--more-->
+
 ```
 open class Device(var name: String) {
 }
@@ -36,7 +38,6 @@ interface Vedio {
 var television = object : Device("Sony"), Vedio{}
 
 ```
-<!--more-->
 
 这可以方便的实现一个匿名内部类的对象用于方法的参数中：
 

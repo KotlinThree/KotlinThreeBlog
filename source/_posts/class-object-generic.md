@@ -8,7 +8,6 @@ tags:
 
 ---
 
-## 泛型
 
 与java一样，Kotlin也提供泛型，为类型安全提供保证，消除类型强转的烦恼。
 
@@ -22,6 +21,8 @@ class Box<T>(t: T) {
 }
 ```
 然后可以这样使用
+
+<!--more-->
 
 ```
 val box: Box<Int> = Box<Int>(1)
@@ -56,8 +57,6 @@ fun <T> cloneWhenGreater(list: List<T>, threshold: T): List<T>
 }
 ```
 到这里，对于之前用过泛型的同学来说都没有什么难度。so，kotlin还有什么java里没有的东西吗？
-
-<!--more-->
 
 ### `in`和`out`
 
