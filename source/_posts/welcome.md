@@ -2,10 +2,10 @@ title: Welcome
 date: 2015-12-15 21:36:29
 tags: star
 photos:
-    - http://img4.duitang.com/uploads/blog/201312/13/20131213162251_ueFLz.jpeg
+    - http://7xpox6.com1.z0.glb.clouddn.com/104429.88533097_620X620.jpg
 ---
 
-![Zenus](http://img4.duitang.com/uploads/blog/201312/13/20131213162251_ueFLz.jpeg)
+![Zenus](http://7xpox6.com1.z0.glb.clouddn.com/104429.88533097_620X620.jpg)
 
 <!--more-->
 
