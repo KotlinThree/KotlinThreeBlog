@@ -4,7 +4,7 @@
 
 # Site
 title: KotlinThree's Blog
-subtitle: for the dream
+subtitle: Kotliner 上海分会
 description:
 author: KotlinThree
 language:
@@ -71,3 +71,22 @@ deploy:
   type: git
   repository: git@github.com:KotlinThree/KotlinThree.github.io.git
   branch: master
+
+jsonContent:
+    meta: false
+    pages: false
+    posts:
+      title: true
+      date: true
+      path: true
+      text: false
+      raw: false
+      content: false
+      slug: false
+      updated: false
+      comments: false
+      link: false
+      permalink: false
+      excerpt: false
+      categories: false
+      tags: true
