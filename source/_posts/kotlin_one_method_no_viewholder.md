@@ -121,6 +121,11 @@ class MyViewHolder(val convertView: View) : RecyclerView.ViewHolder(convertView)
 
 如果不想 `MyViewHolder` 的外部有不需要的依赖，可以将 `findViewOften` 直接实现在 `MyViewHolder` 里面。
 
+
+## 欢迎大家关注我们的公众号
+
+![](http://7xpox6.com1.z0.glb.clouddn.com/qrcode_for_gh_b2ad0581a6c4_430.jpg?imageView2/2/w/320) 
+
 ## 参考资料
 
 - [ViewHolder](https://developer.android.com/training/improving-layouts/smooth-scrolling.html#ViewHolder)

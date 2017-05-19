@@ -162,3 +162,8 @@ fun main() {
 
 在类的声明过程中，在父类类型后面使用`by`关键字指明在Derived的对象中将会内部存储`b`对象，并且编译器会将`Base `的所有方法指向`b`。
 
+
+## 欢迎大家关注我们的公众号
+
+![](http://7xpox6.com1.z0.glb.clouddn.com/qrcode_for_gh_b2ad0581a6c4_430.jpg?imageView2/2/w/320) 
+

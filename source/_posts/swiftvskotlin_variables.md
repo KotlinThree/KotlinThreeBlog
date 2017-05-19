@@ -165,6 +165,7 @@ let count = 10 // Int 类型
 var message = "Hello" // String 类型
 ```
 
-该课程发布在沪江学习App上，会在该博客上同步更新，有兴趣的可以下载该 App 体验一下。
 
-![](http://7xpox6.com1.z0.glb.clouddn.com/1495082763.png)
+## 欢迎大家关注我们的公众号
+
+![](http://7xpox6.com1.z0.glb.clouddn.com/qrcode_for_gh_b2ad0581a6c4_430.jpg?imageView2/2/w/320) 

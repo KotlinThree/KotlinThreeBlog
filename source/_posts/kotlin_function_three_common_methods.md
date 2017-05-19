@@ -107,7 +107,12 @@ val result = texts.map { it.substring(0,1) }.reduce { r, s -> "$r$s"}
 
 函数式编程是一种思维方式，函数式编程鼓励放弃对状态的维持（是命令式编程的基础），将所有的操作都交给运行时去执行。当然为了保证程序运行的效率，这需要提供一些辅助性的手段（缓存、缓求值等）。
 
-[参考资料]
+
+## 欢迎大家关注我们的公众号
+
+![](http://7xpox6.com1.z0.glb.clouddn.com/qrcode_for_gh_b2ad0581a6c4_430.jpg?imageView2/2/w/320) 
+
+## 参考资料
 
 - [函数式编程思维](https://book.douban.com/subject/26587213/)
 - [函数式编程](http://baike.baidu.com/view/1711147.htm)

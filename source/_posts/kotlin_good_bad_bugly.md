@@ -273,7 +273,10 @@ Kotlin 是一门非常棒的语言。它比 Java 简洁多了，它还有一个�
 
 英文原文：[Kotlin: The Good, The Bad, and The Ugly](https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f#.s0t91g9xn)
 
-欢迎大家投稿 [Kotlin Three](http://www.jianshu.com/collection/ce44081f781f)
+
+## 欢迎大家关注我们的公众号
+
+![](http://7xpox6.com1.z0.glb.clouddn.com/qrcode_for_gh_b2ad0581a6c4_430.jpg?imageView2/2/w/320) 
 
 ## 参考资料 
 - **[1]** In the case of a *lateinit *property,*kotlin.UninitializedPropertyAccessException *will be thrown, where the*Delegates.notNull *will throw an *IllegalStateException*.
