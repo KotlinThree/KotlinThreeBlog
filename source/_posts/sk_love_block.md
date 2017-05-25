@@ -1,14 +1,20 @@
-# 我与 Kotlin 的爱恨情仇之浅谈 block
+title: 我与 Kotlin 的爱恨情仇之浅谈 block
+date: 2017-05-23 21:34:29
+tags: 
+- Kotlin
+---
 
 ## 前言
 
 hi, IMSK。是的，你没看错，没迷路，这里是 `Kotlin`  ，不是 `Objective-C`，别怕接下来跟我一起认识认识这个 block 的前世今生。前方高能，请您带上耳机，戴上眼镜。
 
+<!-- MORE -->
+
 ## block是什么？
 
 先来看看 Kotlin 代码长什么样子：
      
- ![](http://upload-images.jianshu.io/upload_images/2874486-92b0b5724169c608.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/2874486-92b0b5724169c608.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 其中 `body` 就是一个 block， `() -> T` 是一个 函数块（ 函数签名 ）。block 可以当做参数传入， 也可以当做返回值返回。在这里我就沿用我之前写 Objective-C 的习惯，暂且称作他为 闭包。
 

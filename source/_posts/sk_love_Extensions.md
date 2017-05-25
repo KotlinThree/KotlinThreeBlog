@@ -1,7 +1,14 @@
-# 我与 Kotlin 的爱恨情仇之浅谈 Extensions
->Kotlin, similar to C# and Gosu, provides the ability to extend a class with new functionality without having to inherit from the class or use any type of design pattern such as Decorator. This is done via special declarations called extensions. Kotlin supports extension functions and extension properties.
+title: 我与 Kotlin 的爱恨情仇之浅谈 Extensions
+date: 2017-05-25 21:24:29
+tags: 
+- Kotlin
+---
+
+Kotlin, similar to C# and Gosu, provides the ability to extend a class with new functionality without having to inherit from the class or use any type of design pattern such as Decorator. This is done via special declarations called extensions. Kotlin supports extension functions and extension properties.
 
 上一个章节[《我与 Kotlin 的爱恨情仇之浅谈 Type aliases》](http://shanghai.kotliner.cn/2017/05/25/sk_love_Type%20aliases/)中，带领大家一起领略了一下 `typealias`的基本用法。可以让你写出更加优美的代码。今天再带大家一起来领略一下 `Kotlin` 中另一个神奇好玩的东西: `Extensions`.
+
+<!-- MORE -->
 
 ## Extensions 是什么？
 

@@ -1,4 +1,8 @@
-# 我与 Kotlin 的爱恨情仇之浅谈 Type aliases
+title: 我与 Kotlin 的爱恨情仇之浅谈 Type aliases
+date: 2017-05-25 21:24:29
+tags: 
+- Kotlin
+---
 
    > 在上一篇文章 [《我与 Kotlin 的爱恨情仇之浅谈 block》](http://shanghai.kotliner.cn/2017/05/25/sk_love_block/)最后, 我提到了 `Kotlin` 已经引入 `Type aliases` ，今天就跟大家一起来聊聊吧。
 
@@ -6,6 +10,8 @@
 
 接受一个新的东西的时候，我们首先都会从字面去猜测它大概是用来做什么的，`Type aliases` 也不例外。
  `Type` 顾名思义 `类型` , `aliases` 我想大伙也并不会太陌生，意味着 `别名`，很多时候我们会在系统的 `profile` 中加入一些 `aliases`，方便我们使用命令。二者联合起来就是： `给一个类型起一个别名`。
+
+<!-- MORE -->
 
  ## 我爱 Type aliases 
 
