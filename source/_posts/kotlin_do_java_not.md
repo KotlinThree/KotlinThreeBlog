@@ -1,5 +1,15 @@
-## 那些年Kotlin轻易能实现，java很难实现的语法糖
+title: 那些年Kotlin轻易能实现，java很难实现的语法糖
+date: 2016-08-02 23:57:49
+tags: 
+- Kotlin
+- Android
+- java vs kotlin
 
+thumbnail: http://7xqerh.com1.z0.glb.clouddn.com/fc_stock-photo-199570919.jpg?imageView2/1/w/200
+
+banner: http://7xqerh.com1.z0.glb.clouddn.com/fc_stock-photo-199570919.jpg?imageView2/1/w/1024/h/460 
+
+---
 
 做android开发那么多年， 一直都是兢兢业业用java去码代码，直到两年前的一天发现了kotlin这门神奇的语言。犀利的语法特性，优雅的表达方式，从此掉入此坑。
 
