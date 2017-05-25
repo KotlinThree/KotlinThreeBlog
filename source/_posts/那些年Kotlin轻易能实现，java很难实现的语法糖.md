@@ -7,6 +7,8 @@
 
 最近google io大会把kotlin定为Android开发第一级语言，着实掀起了一股讨论kotlin的浪潮。那么，未来的androider是不是会用kotlin替代java呢？这里我们来讨论下一个话题：那些Kotlin轻易能实现，java很难实现的语法糖，由此来看一看kotlin的独特魅力。
 
+<!--more-->
+
 ## 函数编程
 
 在kotlin中，函数和类一样是一等公民，函数也可以作为参数传递（高阶函数特性），且可执行(闭包特性)。举个栗子
