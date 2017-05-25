@@ -1,6 +1,6 @@
 # 我与 Kotlin 的爱恨情仇之浅谈 Type aliases
 
-   > 在上一篇文章 [《我与 Kotlin 的爱恨情仇之浅谈 block》](http://www.jianshu.com/p/53c657bed4ab)最后, 我提到了 `Kotlin` 已经引入 `Type aliases` ，今天就跟大家一起来聊聊吧。
+   > 在上一篇文章 [《我与 Kotlin 的爱恨情仇之浅谈 block》](http://shanghai.kotliner.cn/2017/05/25/sk_love_block/)最后, 我提到了 `Kotlin` 已经引入 `Type aliases` ，今天就跟大家一起来聊聊吧。
 
 ## Type aliases 是什么？
 
